@@ -1,0 +1,56 @@
+body {
+    margin: 0px;
+    font-family: cursive;
+    background: white;
+}
+
+header {
+    background: #2e354f;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900px;
+}
+
+h2 {
+    color: #ef5839;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
+
+.section-two {
+    background: #2e354f;
+    color: white;
+}
+
+
+
+#first-btn {
+    background: #ef5839;
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+#second-btn {
+    background: white;
+    padding: 10px 25px;
+    color: black;
+}
+
+#first-btn:hover {
+    background: white;
+    color: black;
+}
+
+#second-btn:hover {
+    background: black;
+    color: white;
+}
